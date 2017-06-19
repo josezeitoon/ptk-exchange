@@ -1,5 +1,6 @@
 === Plugin Name ===
-KARAVACA
+KARAVACA kokoloko 
+
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: josevillalobos.com
 Tags: comments, spam
